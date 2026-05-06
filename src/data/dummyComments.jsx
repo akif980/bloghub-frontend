@@ -16,7 +16,7 @@ const dummyComments = [
   {
     id: 3,
     postId: 2,
-    author: "Mahi",
+    author: "Mahia mahi",
     time: "30 minutes ago",
     text: "React component structure will make this project much easier to maintain.",
   },
